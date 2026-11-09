@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Vini | UX/UI & Web Designer
+# vinidimo | UX/UI & Web Designer
 
 ### Design, tecnologia e experiências digitais
 
