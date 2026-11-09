@@ -7,7 +7,7 @@
 
 **Criando experiências digitais que conectam design, tecnologia e usabilidade.**
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=7B61FF&style=flat-square&label=Visualizações" />
+<img src="https://komarev.com/ghpvc/?username=vinidimo&color=7B61FF&style=flat-square&label=Visualizações" />
 
 </div>
 
