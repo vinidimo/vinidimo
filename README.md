@@ -14,9 +14,7 @@
 
 ### GitHub Stats
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinidimo&theme=tokyonight" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinidimo&theme=tokyonight" />
-
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinidimo&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinidimo&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinidimo&theme=tokyonight" />
 
 </div>
