@@ -2,7 +2,7 @@
 <div align="center">
 
 # vinidimo
-**UX/UI & Web Designer**  
+**UX/UI & Web Designer**
 
 ### Tecnologias & Ferramentas
 
@@ -10,15 +10,9 @@
 
 ### GitHub Stats
 
-<table border ="0">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinidimo&theme=tokyonight" />
-    </td>
-    <td width="60%" align="center" valign="middle">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinidimo&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="35%" align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinidimo&theme=tokyonight" />
+  <img width="60%" align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinidimo&theme=tokyonight" />
+</p>
 
 </div>
