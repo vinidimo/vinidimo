@@ -9,7 +9,9 @@
 
 ## Linguagens mais utilizadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidimo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinidimo&theme=tokyonight" alt="Linguagens por repositório" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinidimo&theme=tokyonight" alt="Linguagens por commits" />
 
 ---
 
@@ -33,12 +35,20 @@
 
 ## Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinidimo&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinidimo&theme=tokyonight" alt="Estatísticas do GitHub" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinidimo&theme=tokyonight&utcOffset=-3" alt="Horários de atividade" />
 
 ---
 
-## Atividade
+## Resumo de Atividades
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinidimo&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinidimo&theme=tokyonight" width="100%" alt="Resumo de contribuições" />
+
+---
+
+## Tecnologias que utilizo
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,ps,ai,vscode,git,github&theme=dark" />
 
 </div>
