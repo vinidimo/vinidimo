@@ -4,4 +4,19 @@
 # vinidimo
 **UX/UI & Web Designer**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,python,figma,ps,ai,xd,wordpress,webflow,vscode,git,github&perline=8&theme=dark" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=php,python&theme=dark" />
+
+<!-- Design -->
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
+
+<!-- CMS & No-Code -->
+<img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" />
+
+<!-- Ferramentas -->
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+
+</div>
